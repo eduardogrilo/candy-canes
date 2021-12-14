@@ -10,7 +10,7 @@ Each packet of candy canes has a variable amount of candies inside.
 Santa wants to give a unique packet to each Elf, but being as fair as possible.  
 Calculate the minimum possible difference between maximum number of candies given to an Elf and minimum number of candies given to an Elf  
 
-**Function signature
+**Function signature**  
 findMinDiff(int[] packets, int numberOfElfs) returns int
 
 **Examples:**
